@@ -1,0 +1,32 @@
+{
+  "sesiones": {
+    "Fisica I": [
+      {
+        "fecha_inicio": "16/04/2024 8:00",
+        "fecha_fin": "16/04/2024 10:00",
+        "cupo": 10
+      }
+    ],
+    "Fisica II": [
+      {
+        "fecha_inicio": "16/04/2024 8:00",
+        "fecha_fin": "16/04/2024 10:00",
+        "cupo": 2
+      }
+    ],
+    "Electronica IV": [
+      {
+        "fecha_inicio": "16/04/2024 18:00",
+        "fecha_fin": "16/04/2024 19:00",
+        "cupo": 20
+      }
+    ],
+    "Matematica III": [
+      {
+        "fecha_inicio": "16/04/2024 11:00",
+        "fecha_fin": "16/04/2024 13:00",
+        "cupo": 15
+      }
+    ]
+  }
+}
